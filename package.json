@@ -1,0 +1,22 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "description": "My First Project. I wanted to build an apps for my business to help me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "Testit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asraful549/Apps.git"
+  },
+  "keywords": [
+    "maknoon"
+  ],
+  "author": "Asraful Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asraful549/Apps/issues"
+  },
+  "homepage": "https://github.com/asraful549/Apps#readme"
+}
