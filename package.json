@@ -4,6 +4,7 @@
   "description": "My First Project. I wanted to build an apps for my business to help me.",
   "main": "index.js",
   "scripts": {
+    "build": "ng build"
     "test": "Testit"
   },
   "repository": {
