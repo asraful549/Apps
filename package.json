@@ -4,8 +4,8 @@
   "description": "My First Project. I wanted to build an apps for my business to help me.",
   "main": "index.js",
   "scripts": {
-    "build": "react-scripts build",
-    "test": "Testit"
+    "test": "Testit",
+    "build": "echo 'Add your build command here, e.g., webpack, gulp, or a framework-specific build command'"
   },
   "repository": {
     "type": "git",
